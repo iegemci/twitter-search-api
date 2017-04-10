@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tweet Search</string>
+    <string name="consumer_key">3KIFCkSV4GwLUSn7juJ128Ya4</string>
+    <string name="consumer_secret">pUUTqq1oMhwpFgwsFuW1MCRVuns6VNDws5ifkFospyoJYraPR0</string>
+    <string name="pref_pass">YTdmNzFjYmI2NGExYjE5NTU1NDM4MTQ3YTMwZw78YjkwNjMyN4TnOQ==</string>
+    <string name="basic_auth">key_basic_auth</string>
+    <string name="auth_token_key">key_auth_token</string>
+    <string name="nothing_to_show_here">Nothing to show here</string>
+    <string name="search">search text</string>
+</resources>
